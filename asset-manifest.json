@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Derrick-Edowen-Portfolio/static/css/main.1871162a.css",
-    "main.js": "/Derrick-Edowen-Portfolio/static/js/main.ecf40ce1.js",
+    "main.css": "/Derrick-Edowen-Portfolio/static/css/main.778367c3.css",
+    "main.js": "/Derrick-Edowen-Portfolio/static/js/main.5500a0b6.js",
     "static/js/787.67b99310.chunk.js": "/Derrick-Edowen-Portfolio/static/js/787.67b99310.chunk.js",
     "static/media/juice.PNG": "/Derrick-Edowen-Portfolio/static/media/juice.16ec41986dd5f0e2c07b.PNG",
     "static/media/book.PNG": "/Derrick-Edowen-Portfolio/static/media/book.9f0a24dbfc6a53f20ddf.PNG",
@@ -19,12 +19,12 @@
     "static/media/CoolveticaRg-Regular.woff": "/Derrick-Edowen-Portfolio/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
     "static/media/CoolveticaRg-Regular.woff2": "/Derrick-Edowen-Portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/Derrick-Edowen-Portfolio/index.html",
-    "main.1871162a.css.map": "/Derrick-Edowen-Portfolio/static/css/main.1871162a.css.map",
-    "main.ecf40ce1.js.map": "/Derrick-Edowen-Portfolio/static/js/main.ecf40ce1.js.map",
+    "main.778367c3.css.map": "/Derrick-Edowen-Portfolio/static/css/main.778367c3.css.map",
+    "main.5500a0b6.js.map": "/Derrick-Edowen-Portfolio/static/js/main.5500a0b6.js.map",
     "787.67b99310.chunk.js.map": "/Derrick-Edowen-Portfolio/static/js/787.67b99310.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1871162a.css",
-    "static/js/main.ecf40ce1.js"
+    "static/css/main.778367c3.css",
+    "static/js/main.5500a0b6.js"
   ]
 }
